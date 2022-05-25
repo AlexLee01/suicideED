@@ -1,1 +1,18 @@
 Dataset Statistics
+
+                  Train     Dev    Test
+Event Triggers   33,055   1,925   1,998
+Documents         2,214     130     109
+Sentences        20,677   1,178   1,176
+Words           378,435  20,301  21,541
+
+
+Label Distribution
+
+RF-OTHER    15,343
+PROTECTIVE   7,389
+IDEATION     6,645
+RF-RELATION  3,890
+RF-HEALTH    2,408
+ACTION       1,084
+RF-LIFE        219
